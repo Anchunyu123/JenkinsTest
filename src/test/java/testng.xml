@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="信审自动化测试项目" parallel="false">
+    <listeners>
+
+    </listeners>
+    <test name="Test">
+
+
+    <classes>
+
+        <class name="Login" />
+    </classes>
+
+    </test> <!-- Test -->
+
+
+
+</suite> <!-- Suite -->
+
+
+
+
+
